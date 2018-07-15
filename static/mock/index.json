@@ -1,0 +1,185 @@
+{
+	"ret": true,
+	"data": {
+		"bannerList": [{
+	  			"id":"001",
+	  			"list_img":"http://img1.qunarzz.com/piao/fusion/1803/95/f3dd6c383aeb3b02.png",
+	  			"text": "景点门票"
+	  		},
+	  		{
+	  			"id":"002",
+	  			"list_img":"http://img1.qunarzz.com/piao/fusion/1804/ff/fdf170ee89594b02.png",
+	  			"text": "必游榜单"
+	  		},
+	  		{
+	  			"id":"003",
+	  			"list_img":"http://img1.qunarzz.com/piao/fusion/1803/6a/45f595250c73d102.png",
+	  			"text": "夏日玩水"
+	  		},
+	  		{
+	  			"id":"004",
+	  			"list_img":"http://img1.qunarzz.com/piao/fusion/1804/5a/13ceb38dcf262f02.png",
+	  			"text": "一日游"
+	  		},
+	  		{
+	  			"id":"005",
+	  			"list_img":"http://img1.qunarzz.com/piao/fusion/1803/76/eb88861d78fb9902.png",
+	  			"text": "动植物园"
+	  		},
+	  		{
+	  			"id":"006",
+	  			"list_img":"http://img1.qunarzz.com/piao/fusion/1803/6c/9e54a8540fee0102.png",
+	  			"text": "故宫"
+	  		},{
+	  			"id":"007",
+	  			"list_img":"http://img1.qunarzz.com/piao/fusion/1803/47/c2b659e048b11602.png",
+	  			"text": "主题乐园"
+	  		},
+	  		{
+	  			"id":"008",
+	  			"list_img":"http://img1.qunarzz.com/piao/fusion/1804/ed/cf572be30fc32f02.png",
+	  			"text":"Q+精选"
+	  		}],
+		"jingdianList":[{
+	 			"id":"001",
+	  			"list_imgs":"http://img1.qunarzz.com/sight/p0/1409/19/adca619faaab0898245dc4ec482b5722.jpg_150x150_06cb3e52.jpg",
+	  			"texts": "故宫",
+	  			"jiner":"20"
+	 		},
+	 		{
+	 			"id":"002",
+	  			"list_imgs":"http://img1.qunarzz.com/sight/p0/1704/d6/d62a708bc69472f5a3.img.jpg_150x150_54ba6c62.jpg",
+	  			"texts": "十渡聚龙湾玻璃栈道",
+	  			"jiner":"35"
+	 		},
+	 		{
+	 			"id":"003",
+	  			"list_imgs":"http://img1.qunarzz.com/sight/p0/1708/2b/2b3b94de99c0a425a3.img.jpg_150x150_2dec3e78.jpg",
+	  			"texts": "八达岭长城",
+	  			"jiner":"25"
+	 		},
+	 		{
+	 			"id":"004",
+	  			"list_imgs":"http://img1.qunarzz.com/sight/p0/1501/40/40b2b6c951b28fdd.water.jpg_150x150_8a63d940.jpg",
+	  			"texts": "水立方",
+	  			"jiner":"14"
+	 		},{
+	 			"id":"005",
+	  			"list_imgs":"http://img1.qunarzz.com/sight/p0/1703/7f/7f1084c16465c348a3.img.jpg_150x150_a7e62a0d.jpg",
+	  			"texts": "郁金香摩锐温泉水世界",
+	  			"jiner":"59"
+	 		},
+	 		{
+	 			"id":"006",
+	  			"list_imgs":"http://img1.qunarzz.com/sight/p0/1508/c0/0ddded36771ed10c9e03eb64794610cb.water.jpg_150x150_69bf7d53.jpg",
+	  			"texts": "仙栖洞",
+	  			"jiner":"38"
+	 		},
+	 		{
+	 			"id":"007",
+	  			"list_imgs":"http://img1.qunarzz.com/sight/p0/1508/a5/4003f9dd7bebf61eccbf64046e26d487.water.jpg_150x150_27594131.jpg",
+	  			"texts": "北京欢乐谷",
+	  			"jiner":"39"
+	 		},
+	 		{
+	 			"id":"008",
+	  			"list_imgs":"http://img1.qunarzz.com/sight/p0/201306/13/bdf22f69fab0ee4ec8d65eac.jpg_150x150_35b4b15f.jpg",
+	  			"texts": "八达岭长城缆车",
+	  			"jiner":"160"
+	 		},{
+	 			"id":"009",
+	  			"list_imgs":"http://img1.qunarzz.com/sight/p0/1409/19/adca619faaab0898245dc4ec482b5722.jpg_150x150_06cb3e52.jpg",
+	  			"texts": "颐和园",
+	  			"jiner":"48"
+	 		},
+	 		{
+	 			"id":"010",
+	  			"list_imgs":"http://img1.qunarzz.com/sight/p0/201405/23/0265195fc4b7913a758674357c3cc8f6.jpg_150x150_ba1070d2.jpg",
+	  			"texts": "北京欢乐水魔方",
+	  			"jiner":"118"
+	 		}],
+		"lunboList":[{
+						"id":"001",
+						"url":"https://imgs.qunarzz.com/piao/fusion/1806/11/947d8b7e221cbb02.jpg_640x170_2dcfb0fe.jpg"
+					},
+					{
+						"id":"002",
+						"url":"https://imgs.qunarzz.com/piao/fusion/1803/bd/04554e7c67650302.jpg_640x170_a793a191.jpg"
+					},
+					{
+						"id":"003",
+						"url":"https://imgs.qunarzz.com/piao/fusion/1710/94/e41712475cc4e702.jpg_640x170_f5dd3e83.jpg"
+					}],
+		"zhoumoList":[{
+	  			"id":"001",
+	  			"img_url":"http://img1.qunarzz.com/sight/source/1505/aa/7baaf8a851d221.jpg_r_640x214_1431200f.jpg",
+	  			"text":"北京必游TOP10",
+	  			"jieshao":"来北京必去的景点非这些地方莫属"
+	  		},
+	  		{
+	  			"id":"002",
+	  			"img_url":"http://img1.qunarzz.com/sight/source/1505/9e/21df651e19af5d.jpg_r_640x214_3ea5bb38.jpg",
+	  			"text":"寻找北京的皇城范儿",
+	  			"jieshao":"数百年的宫廷庙宇，至今依旧威严霸气"
+	  		},
+	  		{
+	  			"id":"003",
+	  			"img_url":"http://img1.qunarzz.com/sight/source/1505/ce/bc89bc2f0e33ea.jpg_r_640x214_3e408453.jpg",
+	  			"text":"学生最爱的博物馆",
+	  			"jieshao":"周末干嘛？北京很多博物馆已经免费开放啦"
+	  		},
+	  		{
+	  			"id":"004",
+	  			"img_url":"http://img1.qunarzz.com/sight/source/1505/b2/fde1bfcd057a52.jpg_r_640x214_bbf3fa44.jpg",
+	  			"text":"儿童剧场，孩子的乐园",
+	  			"jieshao":"带宝贝观看演出，近距离体验艺术的无穷魅力"
+	  		},
+	  		{
+	  			"id":"005",
+	  			"img_url":"http://img1.qunarzz.com/sight/source/1507/18/2d554e22faa25f.jpg_r_640x214_2a966a54.jpg",
+	  			"text":"爱上庄园",
+	  			"jieshao":"庄园让臭美的你秒变白富美，高富帅"
+	  		}],
+		"loveList":[{
+	  			"id":"001",
+	  			"img_url":"http://img1.qunarzz.com/sight/p0/1508/a5/4003f9dd7bebf61eccbf64046e26d487.water.jpg_200x200_7690e4cd.jpg",
+	  			"text":"北京欢乐谷",
+	  			"jiner":"39",
+	  			"dizhi":"朝阳区",
+	  			"pinglun":"166"
+	  		},
+	  		{
+	  			"id":"002",
+	  			"img_url":"http://img1.qunarzz.com/sight/p0/1501/d0/d00d72664c3e73d8.water.jpg_200x200_d2b5720b.jpg",
+	  			"text":"北京天文馆",
+	  			"jiner":"138",
+	  			"dizhi":"海淀区",
+	  			"pinglun":"542"
+	  		},
+	  		{
+	  			"id":"003",
+	  			"img_url":"http://img1.qunarzz.com/sight/p0/1507/36/ce3d2d6c9ab44d67ae68d940b8781829.water.jpg_200x200_0938a8f2.jpg",
+	  			"text":"北京野生动物园",
+	  			"jiner":"68",
+	  			"dizhi":"大兴区",
+	  			"pinglun":"10926"
+	  		},
+	  		{
+	  			"id":"004",
+	  			"img_url":"http://img1.qunarzz.com/sight/p0/1601/f5/f5069b6e5f9488b590.water.jpg_200x200_587c485c.jpg",
+	  			"text":"德云社相声大会广德楼店",
+	  			"jiner":"90",
+	  			"dizhi":"西城区",
+	  			"pinglun":"504"
+	  		},
+	  		{
+	  			"id":"005",
+	  			"img_url":"http://img1.qunarzz.com/sight/p0/1503/dc/dc651cd2e01fb900.img.jpg_200x200_04f5b7b7.jpg",
+	  			"text":"南宫温泉水世界",
+	  			"jiner":"59",
+	  			"dizhi":"南宫文化休闲广场西侧",
+	  			"pinglun":"1134"
+	  		}]
+	}
+
+}
